@@ -1,27 +1,3 @@
-# Homework 7
+This assignments was intended to help students learn more about clustering, while continuing to practice creating and using graphical visualizations of data. The assignment was created and written by the Computer Science department at WashU. Scaffolding was provided, although the coding is original work.
 
-This lab is intended to help learn more about clustering.
-
-A few instructions:
-
-1. Make sure to clone this repo to your computer. 
-2. You will need the data files containing employee statistics. This can be found at https://wustl.box.com/s/4zhhhn2dtd3hl2bwd3bkjzlylqtcix62. Make sure to save the contents of the zip folder to "/utility/data"
-3. Then activate the Conda environment before starting the jupyter notebook
-4. In your terminal, run the following commands:
-  ```console 
-    conda activate cse217a
-    jupyter notebook
-  ```
-
-When you're ready to commit and push:
-1. Open terminal and navigate to the repo
-2. Run the following commands:
-  ```console 
-    git commit hw7*.ipynb -m "message"
-    git pull
-  ```
-3. Make sure there aren't any merge conflicts. If there are any, resolve them using a code editor. 
-4. Finally, run the following command to push your changes: 
-  ```console 
-    git push
-  ```
+Completed November 2022
